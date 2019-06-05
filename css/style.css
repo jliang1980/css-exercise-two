@@ -1,8 +1,13 @@
 body {
   background-color: #ffffff;
+<<<<<<< HEAD
   color: #00ff00;
   font-size:16px;
   color:#404040;
+=======
+  color: #000000;
+  font-size:16px;
+>>>>>>> 8d9b3c98a378cfd502c703fb87d06ebc2c0bb943
   
 }
 
@@ -17,6 +22,7 @@ figcaption {
 font-family:Arial;
 font-size: 1em;
 line-height:1.5em;
+
 font-style:italic;
 
 }
